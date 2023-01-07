@@ -18,5 +18,5 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshresthaa&" alt="rohanshresthaa" /></p>
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BishalDali&show_icons=true&count_private=true&include_all_commits=true&theme=swift)[![GitHub Streak](https://streak-stats.demolab.com/?user=BishalDali&theme=highcontrast)](https://git.io/streak-stats)
