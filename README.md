@@ -19,4 +19,4 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BishalDali&show_icons=true&count_private=true&include_all_commits=true&theme=swift)[![GitHub Streak](https://streak-stats.demolab.com/?user=BishalDali&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanshresthaa&show_icons=true&count_private=true&include_all_commits=true&theme=swift)
