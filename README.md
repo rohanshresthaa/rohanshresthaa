@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rohan Shrestha</h1>
-<p align="center">
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanshresthaa&" alt="rohanshresthaa" /></p>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-shrestha-82a27b238) 
 
